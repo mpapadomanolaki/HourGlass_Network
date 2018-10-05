@@ -1,3 +1,6 @@
+--script borrowed from ----> https://github.com/princeton-vl/pose-hg-train
+--with minor changes
+
 if not opt then
 
 local function parse(arg)

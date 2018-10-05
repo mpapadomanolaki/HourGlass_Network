@@ -1,3 +1,5 @@
+--script borrowed from https://github.com/princeton-vl/pose-hg-train
+
 require 'nngraph'
 require 'cunn'
 paths.dofile('Residual.lua')
